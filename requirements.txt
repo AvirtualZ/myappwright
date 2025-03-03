@@ -1,0 +1,8 @@
+SQLAlchemy~=2.0.37
+pandas~=2.2.3
+loguru~=0.7.3
+playwright~=1.49.1
+DataRecorder~=3.6.2
+python-dotenv~=1.0.1
+openai~=1.61.1
+requests~=2.32.3

@@ -1,0 +1,36 @@
+{None: [(7616, 'biuw333@163.com', 'Boss1234', 'NetEase', None, '未找到 Confirm Warpcast 链接，请手动处理')]}
+{None: [(7030, 'phmk320@163.com', 'Mvpg7462', 'NetEase', None, '未找到 Confirm Warpcast 链接，请手动处理')]}
+{None: [(7030, 'phmk320@163.com', 'Mvpg7462', 'NetEase', None, '未找到 Confirm Warpcast 链接，请手动处理')]}
+{None: [(7090, 'feej266@163.com', 'Hwdq6221', 'NetEase', None, '未找到 Confirm Warpcast 链接，请手动处理')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail账号[WlberJebara@gmail.com]登录失败=================================7001')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail账号[WlberJebara@gmail.com]登录失败=================================7001')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail账号[WlberJebara@gmail.com]登录失败=================================7001')]}
+{None: [(7205, 'aprk413@163.com', 'Rhzk1580', 'NetEase', None, '未找到 Confirm Warpcast 链接，请手动处理')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail账号[WlberJebara@gmail.com]登录失败=================================7001')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail账号[WlberJebara@gmail.com]登录失败=================================7001')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail账号[WlberJebara@gmail.com]登录失败=================================7001')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail 登录出错: File is not a zip file')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail账号[WlberJebara@gmail.com]登录失败=================================7001')]}
+{None: [(7001, 'WlberJebara@gmail.com', 'rw2noei2c', 'Gmail', 'moriseyflegleiu581@bboys.fr.nf', 'Gmail 登录出错: File is not a zip file')]}
+{None: [(7172, 'MahiaXin@gmail.com', 'epchnvtxv36', 'Gmail', 'shindowhiskerql552@cpc.cx', 'Gmail 登录出错: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator("input[name=\\"Passwd\\"]")\n')]}
+{None: [(7172, 'MahiaXin@gmail.com', 'epchnvtxv36', 'Gmail', 'shindowhiskerql552@cpc.cx', 'Gmail 登录出错: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator("input[name=\\"Passwd\\"]")\n')]}
+{None: [(7173, 'GabroHelena815@gmail.com', 'eaasmld4b', 'Gmail', 'turnesschutzjk643@speed.1s.fr', 'Gmail 登录出错: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator("input[name=\\"Passwd\\"]")\n')]}
+{None: [(7173, 'GabroHelena815@gmail.com', 'eaasmld4b', 'Gmail', 'turnesschutzjk643@speed.1s.fr', 'Gmail 登录出错: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator("input[name=\\"Passwd\\"]")\n')]}
+{None: [(7219, 'bfmw842@163.com', 'Fahg0829', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7219, 'bfmw842@163.com', 'Fahg0829', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7380, 'SomeraLetticia423@gmail.com', 'bt7ljihojvu', 'Gmail', 'desormeaurathmellao58@aze.kwtest.io', 'Gmail账号[SomeraLetticia423@gmail.com]登录失败=================================7380')]}
+{None: [(7380, 'SomeraLetticia423@gmail.com', 'bt7ljihojvu', 'Gmail', 'desormeaurathmellao58@aze.kwtest.io', 'Gmail 登录出错: File is not a zip file')]}
+{None: [(7380, 'SomeraLetticia423@gmail.com', 'bt7ljihojvu', 'Gmail', 'desormeaurathmellao58@aze.kwtest.io', 'Gmail账号[SomeraLetticia423@gmail.com]登录失败=================================7380')]}
+{None: [(7380, 'SomeraLetticia423@gmail.com', 'bt7ljihojvu', 'Gmail', 'desormeaurathmellao58@aze.kwtest.io', 'Gmail 登录出错: File is not a zip file')]}
+{None: [(7402, 'zwwe235@163.com', 'Fwei6352', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.\n=========================== logs ===========================\n"domcontentloaded" event fired\n============================================================')]}
+{None: [(7402, 'zwwe235@163.com', 'Fwei6352', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.\n=========================== logs ===========================\n"domcontentloaded" event fired\n============================================================')]}
+{None: [(7409, 'yfzv417@163.com', 'Jlqm3764', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7409, 'yfzv417@163.com', 'Jlqm3764', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7445, 'wqvu730@163.com', 'Rgii9317', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7445, 'wqvu730@163.com', 'Rgii9317', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7492, 'hvdo426@163.com', 'Mfds2802', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7492, 'hvdo426@163.com', 'Mfds2802', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7543, 'uukr037@163.com', 'Oxcn7860', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7543, 'uukr037@163.com', 'Oxcn7860', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7572, 'rphz486@163.com', 'Zkjz0354', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
+{None: [(7572, 'rphz486@163.com', 'Zkjz0354', 'NetEase', None, 'NetEase 登录出错: Timeout 30000ms exceeded.')]}
