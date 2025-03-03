@@ -231,3 +231,8 @@ class PageAuto:
     async def filter_by_attribute(self, attribute, value):
         all_locators: typing.List[Locator] = await self.all()
         return [item for item in all_locators if item if value in await item.get_attribute(attribute)]
+    async def press(
+        self,
+        key: str
+    ) -> None:
+        return await self.target.press(key)

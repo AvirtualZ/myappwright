@@ -59,7 +59,7 @@ if __name__ == '__main__':
     tasklist = [
         "init_outlook",
         "x"]
-    task_name = tasklist[int(input('请输入任务序号：')) or 0]
+    task_name = tasklist[int(input('请输入任务序号：') or 0)]
     logger.add(f"./log/{task_name}-{datetime.date.today()}.log")
     logger.info(f"任务名称:{task_name}")
     run_day_key = '2025-02-26'

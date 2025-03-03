@@ -10,13 +10,12 @@ import repo
 import utils
 from page_auto import PageAuto
 from repo.corpora import Corpora
-from utils import logutils
-
-x_token_list = logutils.get_list_from_file('x_token_list.txt')
+from utils import logutils, browserutils
 
 
 async def do_task(context: BrowserContext, browser_id):
     logger.info(f"开始执行每日X_token_login任务，环境ID: {browser_id}")
+    user = browserutils.get_data(browser_id)
     page = await utils.get_page_by_url(context, "https://x.com")
     if await PageAuto(page, context, browser_id).get_by_test_id("loginButton").is_visible():
         logger.info(f"环境ID: {browser_id}未登录，执行登录流程")
@@ -24,13 +23,13 @@ async def do_task(context: BrowserContext, browser_id):
         await context.add_cookies([
             {
                 "name": "auth_token",
-                "value": x_token_list[browser_id],
+                "value": user.x_token,
                 "domain": ".twitter.com",
                 "path": "/",
             },
             {
                 "name": "auth_token",
-                "value": x_token_list[browser_id],
+                "value": user.x_token,
                 "domain": ".x.com",
                 "path": "/",
             }

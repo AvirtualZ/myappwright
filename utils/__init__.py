@@ -57,3 +57,17 @@ async def human_like_scroll(page: Page, scroll_steps=10):
         page_height = await page.evaluate("document.body.scrollHeight")
         if current_position >= page_height:
             break
+
+
+async def wait_page_change(page: Page, old_url):
+    for _ in range(30):
+        if old_url != page.url:
+            return
+        await asyncio.sleep(1)
+    logger.debug(f"等待页面跳转，环境ID: 30s 页面未跳转，请检查网络环境")
+async def wait_element_change(page: Page, element):
+    for _ in range(30):
+        if await page.query_selector(element):
+            return
+        await asyncio.sleep(1)
+    logger.debug(f"等待页面跳转，环境ID: 30s 页面未跳转，请检查网络环境")
